@@ -1,7 +1,7 @@
 # GU_Competitive-Data-Analysis
 
 Описание:
-1. <a href='https://github.com/SergeyOS/GU_Competitive-Data-Analysis/blob/'> main.py </a>. Содержит:
+1. <a href='https://github.com/SergeyOS/GU_Competitive-Data-Analysis/blob/main.py'> main.py </a>. Содержит:
 * параметры запуска
 * основной pipeline
 * функцию запуска
